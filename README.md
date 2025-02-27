@@ -6,7 +6,7 @@ Este projeto é um tabuleiro de damas simples, desenvolvido com Next.js.
 
 1. **Clone o repositório**
 ```bash
-https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/Sampizaa/tabuleiro-dama.git
 ```
 
 2. **Acesse o diretório do projeto**
